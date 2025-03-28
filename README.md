@@ -23,7 +23,6 @@ A Telegram bot that identifies the location of phone numbers in various formats.
 - Google's libphonenumber library
 - Telegram Bot API
 - Express.js (for Railway deployment)
-- Next.js (for landing page)
 
 ## Setup and Deployment
 
